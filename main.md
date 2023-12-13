@@ -18,3 +18,5 @@ The sensitivity of the detector depends on the following characteristics:
 2. Detector noise: This determine the certain minimum that can only be detected because of the inherite noise present in the electronics of the detector.
 
 3. Material covering the entrance window: The absorbing capacity of the material sets the minimum energy threeshold.
+
+4. 
